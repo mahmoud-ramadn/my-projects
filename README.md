@@ -1,2 +1,2 @@
-#my-projects
+## myprojects
 I'm trying to understand github
